@@ -21,3 +21,5 @@ staticman:
   repository : aimacode/aima-exercises # GitHub username/repository eg. "daattali/beautiful-jekyll"
   branch     : "master"
   
+
+theme: jekyll-theme-minimal
